@@ -1,31 +1,31 @@
-Authors
-* Stuart McKay
+# Authors
+## **Stuart McKay**
 
-Built With
+###Built With
 * HTML
 * CSS
 * Bootstrap
 * Atom
 * Git
 
-Independent Project (week 1)
+###Independent Project (week 1)
 This project will demonstrate fundamental understanding of core concepts learned in Week 1; Intro To Programming, at Epicodus.
 
-Program Setup Instructions
-Make sure you have an internet connection
-Click the gh-pages link
-????
-Profit
+###Program Setup Instructions
+1. Make sure you have an internet connection
+2. Click the gh-pages link
+3. ????
+4. Profit
 
-Troubleshooting
+###Troubleshooting
 Try turning it off and then on again
 
-Link to GH-Pages:
+###Link to GH-Pages: [Click here](github.io) to go to the deployed webpage.
 
-License
+###License
 This work is the sole ownership of the Author's. Distribution is permitted under Creative Commons licensing.
 
-Acknowledgments
+###Acknowledgments
 * Thank you to the Epicodus staff for getting me this far.
 * Stack Overflow
 * GitHub
