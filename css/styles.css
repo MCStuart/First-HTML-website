@@ -1,6 +1,6 @@
-/* * {
+* {
   outline: 1px solid red;
-} */
+}
 
 .col-md-2 {
   position: fixed;
@@ -8,6 +8,7 @@
 }
 
 .col-md-1 {
+  position: sticky;
   left: 0;
 }
 
