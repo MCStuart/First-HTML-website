@@ -8,7 +8,6 @@ body {
 }
 
 ul {
-  list-style: none;
   padding-left: 1em;
 }
 
@@ -53,6 +52,15 @@ h2.panel-title {
 
 h3.panel-title {
   font-size: .8vw;
+}
+
+.panel-body > ul {
+  padding: 0vw;
+}
+
+div.cats {
+  list-style: none;
+  font-size: .75vw;
 }
 
 .col-md-9 {
