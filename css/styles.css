@@ -2,6 +2,9 @@
   outline: 1px solid red;
 } */
 
+html {
+  background-color: #a8a093;
+}
 .col-md-2 {
   right: 0;
 }
@@ -13,6 +16,11 @@
 ul {
   list-style: none;
   padding-left: 0;
+}
+
+a {
+  color: purple;
+  padding-left: 5%;
 }
 
 .important {
@@ -33,6 +41,15 @@ ul {
   width: auto;
 }
 
+#pipes {
+  width: 95%;
+  height: 100%;
+}
+
 div.main-article > p {
   font-family: "Verdana", sans-serif;
+}
+
+div.jumbotron {
+  background-image: linear-gradient(aquamarine, purple);
 }
