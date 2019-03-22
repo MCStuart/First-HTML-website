@@ -2,31 +2,9 @@
   outline: 1px solid red;
 } */
 
-.col-md-9 {
-  font-size: 1vw;
-}
-
-.col-md-2 {
-  position: fixed;
-  right: 0;
-}
-
 body {
   background-image: url(../media/water.png);
   background-size: cover;
-}
-
-.col-md-1 {
-  position: sticky;
-  left: 0;
-}
-
-h2.panel-title {
-  font-size: 1vw;
-}
-
-h3.panel-title {
-  font-size: .8vw;
 }
 
 ul {
@@ -39,16 +17,63 @@ a {
   padding-left: 5%;
 }
 
-.important {
-  background-color: lightgreen;
-  font-weight: bold;
+panel-heading {
+  border: 1px, solid, blue;
 }
 
 img {
   max-width: 100%;
   height: auto;
-
 }
+
+div {
+  font-size: 1vw;
+}
+
+div.main-article > p {
+  font-family: "Verdana", sans-serif;
+}
+
+div.jumbotron {
+  background-image: linear-gradient(aquamarine, violet);
+}
+
+div.panel-body {
+  font-size: 1vw;
+}
+
+blockquote p:first-child {
+  padding-top: 5px;
+  margin-bottom: -.25rem;
+}
+
+h2.panel-title {
+  font-size: 1vw;
+}
+
+h3.panel-title {
+  font-size: .8vw;
+}
+
+.col-md-9 {
+  font-size: 1vw;
+}
+
+.col-md-2 {
+  position: fixed;
+  right: 0;
+}
+
+.col-md-1 {
+  position: sticky;
+  left: 0;
+}
+
+.important {
+  background-color: lightgreen;
+  font-weight: bold;
+}
+
 #ted {
   float: right;
   padding-left: 2%;
@@ -64,29 +89,4 @@ img {
 #pipes {
   width: 95%;
   height: 100%;
-}
-
-div {
-  font-size: 1vw;
-}
-
-div.main-article > p {
-  font-family: "Verdana", sans-serif;
-}
-
-div.jumbotron {
-  background-image: linear-gradient(aquamarine, violet);
-}
-
-blockquote p:first-child {
-  padding-top: 5px;
-  margin-bottom: -.25rem;
-}
-
-panel-heading {
-  border: 1px, solid, blue;
-}
-
-div.panel-body {
-  font-size: 1vw;
 }
