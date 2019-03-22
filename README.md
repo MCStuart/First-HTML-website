@@ -1,8 +1,8 @@
 Independent Project (week 1)
 This project will demonstrate fundamental understanding of core concepts learned in week 1, intro to programming, at Epicodus.
 
-Link
-https://github.com/MCStuart/friday-week1
+Link to GH-Pages
+
 
 Built With
 * HTML
