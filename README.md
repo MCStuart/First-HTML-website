@@ -1,6 +1,9 @@
 Independent Project (week 1)
 This project will demonstrate fundamental understanding of core concepts learned in week 1, intro to programming, at Epicodus.
 
+Link
+https://github.com/MCStuart/friday-week1
+
 Built With
 * HTML
 * CSS
@@ -12,7 +15,7 @@ Contributing
 * Stuart McKay
 
 Authors
-* Stuart McKay 
+* Stuart McKay
 
 License
 This work is the sole ownership of the Author's. Distribution is permitted under Creative Commons licensing.
