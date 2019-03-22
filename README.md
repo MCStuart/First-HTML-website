@@ -20,7 +20,7 @@ This project will demonstrate fundamental understanding of core concepts learned
 ### Troubleshooting
 Try turning it off and then on again
 
-### Link to GH-Pages: [Click here](github.io) to go to the deployed webpage.
+### Link to GH-Pages: [Click here](https://mcstuart.github.io/friday-week1/) to go to the deployed webpage.
 
 ### License
 This work is the sole ownership of the Author's. Distribution is permitted under Creative Commons licensing.
