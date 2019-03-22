@@ -32,3 +32,7 @@ ul {
   height: 200px;
   width: auto;
 }
+
+div.main-article > p {
+  font-family: "Verdana", sans-serif;
+}
