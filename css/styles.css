@@ -1,3 +1,14 @@
 * {
   outline: 1px solid red;
 }
+
+.col-md-2 {
+  position: absolute;
+  right: 0;
+}
+
+.col-md-1 {
+  position: absolute;
+  left: 0;
+  font-size-adjust: auto;
+}
