@@ -28,6 +28,11 @@ a {
   font-weight: bold;
 }
 
+img {
+  max-width: 100%;
+  height: auto;
+
+}
 #ted {
   float: right;
   padding-left: 2%;
@@ -35,15 +40,20 @@ a {
 }
 
 #internet {
+  max-width: 30%;
   float: left;
   padding-right: 2%;
-  height: 200px;
-  width: auto;
+  /* height: 200px;
+  width: auto; */
 }
 
 #pipes {
   width: 95%;
   height: 100%;
+}
+
+div {
+  font-size: 1vw;
 }
 
 div.main-article > p {
@@ -59,4 +69,4 @@ blockquote p:first-child {
   margin-bottom: -.25rem;
 }
 
-.panel-heading  
+.panel-heading
