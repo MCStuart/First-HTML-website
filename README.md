@@ -1,8 +1,5 @@
-Independent Project (week 1)
-This project will demonstrate fundamental understanding of core concepts learned in week 1, intro to programming, at Epicodus.
-
-Link to GH-Pages
-
+Authors
+* Stuart McKay
 
 Built With
 * HTML
@@ -11,11 +8,19 @@ Built With
 * Atom
 * Git
 
-Contributing
-* Stuart McKay
+Independent Project (week 1)
+This project will demonstrate fundamental understanding of core concepts learned in Week 1; Intro To Programming, at Epicodus.
 
-Authors
-* Stuart McKay
+Program Setup Instructions
+Make sure you have an internet connection
+Click the gh-pages link
+????
+Profit
+
+Troubleshooting
+Try turning it off and then on again
+
+Link to GH-Pages:
 
 License
 This work is the sole ownership of the Author's. Distribution is permitted under Creative Commons licensing.
