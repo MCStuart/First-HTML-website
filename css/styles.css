@@ -1,9 +1,9 @@
-* {
+/* * {
   outline: 1px solid red;
-}
+} */
 
-body {
-  background-color: #a8a093;
+.panel-default {
+  border-color:
 }
 .col-md-2 {
   right: 0;
@@ -15,7 +15,7 @@ body {
 
 ul {
   list-style: none;
-  padding-left: 0;
+  padding-left: 1em;
 }
 
 a {
@@ -51,5 +51,12 @@ div.main-article > p {
 }
 
 div.jumbotron {
-  background-image: linear-gradient(aquamarine, purple);
+  background-image: linear-gradient(aquamarine, violet);
 }
+
+blockquote p:first-child {
+  padding-top: 5px;
+  margin-bottom: -.25rem;
+}
+
+.panel-heading  
